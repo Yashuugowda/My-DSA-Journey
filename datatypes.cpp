@@ -13,7 +13,7 @@ system that stores customer and product details using
     give an additional 5% discount
 Else:
     no additional dicdscount
-*/
+*/ 
 
 int main() {
 
